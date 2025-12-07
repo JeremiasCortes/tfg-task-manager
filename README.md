@@ -36,39 +36,37 @@
 
 ## 🏗️ Arquitectura
 
-![Arquitectura](diagrams/Interface-task-manager.jpeg)
-
 ### Repositorios del Proyecto
 
-| Repositorio                                                               | Descripción           | Tecnologías            |
-|---------------------------------------------------------------------------|-----------------------|------------------------|
-| [📱 Android App](https://github.com/tu-usuario/tfg-task-manager-android)  | Aplicación móvil      | Kotlin, Compose, Realm |
-| [🖥️ Backend API](https://github.com/tu-usuario/tfg-task-manager-backend) | API REST y servicios  | Spring Boot, MongoDB   |
-| 📘 **Este repo (HUB)**                                                    | Documentación general | Markdown, Diagramas    |
+| Repositorio                                                                   | Descripción           | Tecnologías            |
+|-------------------------------------------------------------------------------|-----------------------|------------------------|
+| [📱 Android App](https://github.com/JeremiasCortes/tfg-task-manager-android)  | Aplicación móvil      | Kotlin, Compose, Realm |
+| [🖥️ Backend API](https://github.com/JeremiasCortes/tfg-task-manager-backend) | API REST y servicios  | Spring Boot, MongoDB   |
+| 📘 **Este repo (HUB)**                                                        | Documentación general | Markdown, Diagramas    |
 
 ---
 
 ## 📱 Android App
 
 ```bash
-git clone https://github.com/tu-usuario/tfg-task-manager-android.git
+git clone https://github.com/JeremiasCortes/tfg-task-manager-android
 cd tfg-task-manager-android
 ./gradlew assembleDebug
 ```
 
-[Ver documentación Android →](https://github.com/tu-usuario/tfg-task-manager-android)
+[Ver documentación Android →](https://github.com/JeremiasCortes/tfg-task-manager-android)
 
 ---
 
 ## 🖥️ Backend API
 
 ```bash
-git clone https://github.com/tu-usuario/tfg-task-manager-backend.git
+git clone https://github.com/JeremiasCortes/tfg-task-manager-backend
 cd tfg-task-manager-backend
 ./mvnw spring-boot:run
 ```
 
-[Ver documentación Backend →](https://github.com/tu-usuario/tfg-task-manager-backend)
+[Ver documentación Backend →](https://github.com/JeremiasCortes/tfg-task-manager-backend)
 
 ---
 
